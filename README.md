@@ -7,4 +7,3 @@ AFree or All Free All Free is the same software group Soft 4 that will continue 
 You can share any criticism or suggestions with us.
 
 Your eternal friend Angel..solo 
-https://afree.ir/
