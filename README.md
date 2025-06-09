@@ -37,7 +37,6 @@ This system is not intended for public use or general deployment. It is part of 
 Deployment is currently done manually or via custom shell scripts, integrated with the Afree web hosting environment.
 
 ---
-
 ## 🛡️ Disclaimer
 
 This repository or system does **not** distribute or promote pirated or cracked software. Afree.ir focuses on legally free, open-source, or trial-based software only.
