@@ -1,6 +1,4 @@
-# HeroUI - Giraffe
 
-![images](images/preview.png)
 # Afree – Lightweight Admin Panel for Managing Free Software Content
 
 **Afree** is a private internal management system developed for Afree.ir – a platform focused on sharing free, open-source, and useful applications for Windows, Android, and beyond. This system is built with modern technologies to simplify backend operations such as remote file handling, metadata processing, and automated content management.
